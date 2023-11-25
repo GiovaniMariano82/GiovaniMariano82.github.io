@@ -1,0 +1,43 @@
+.cinza {
+    background-color: #777;
+}
+.cinza-claro {
+    background-color: #CCC;
+}
+.cinza-escuro {
+    background-color: #212121;
+}
+
+.navbar .nav-item .nav-link:hover {
+    text-decoration: underline;
+}
+
+.featurette {
+    margin: 20px;
+}
+
+.featurette .featurette-image {
+    width: 376px;
+    height: 376px;
+}
+
+.featurette .featurette-heading {
+    margin-top: 7rem;
+    letter-spacing: -.05rem;
+    font-size: 50px;
+    margin-bottom: 1rem;
+}
+
+.featurette .lead {
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+.bd-placeholder-img {
+    font-size: 3.5rem;
+    text-anchor: middle;
+}
+
+.featurette-divider {
+    margin: 5rem 2rem;
+}
